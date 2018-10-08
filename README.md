@@ -36,7 +36,7 @@ The route would be shown as in the following example(Map is of Chennai when it w
 
 ![Image of example Map](https://github.com/coffe2code/Microsoft-CodeFunDo-2k18/blob/master/Map.png)
 
-The map shows a relief agency tending to affected areas(shown by purple patches). Each route corresponds to a single vehicle. The vehicle needs to follow this route for the most efficient operation. The map is taken from https://osm-in.github.io/flood-map/chennai.html#11.65/13.0493/80.2593. We would be using Google Maps in our website.
+The map shows a relief agency tending to affected areas(shown by purple patches). Each route corresponds to a single vehicle. The vehicle needs to follow this route for the most efficient operation. The map is taken from https://osm-in.github.io/flood-map/chennai.html#11.65/13.0493/80.2593. We would be using Google Maps in our website and the maps would highlight the exact route to be taken by the vehicle instead of a highlevel view.
 
 #### Algorithm
 
