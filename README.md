@@ -31,4 +31,12 @@ The amazing thing about our solutions is that it provides the paths for the vehi
 
 The website would first load up a login form. The operator of the agency would need to enter the details such as *Name of Agency*,*Password* etc. The webapp would then load up Google Maps indicating the location of the agency(the location of the agency would be stored upon registration of the agency on the website).
 
-Upon logging in the website would provide an interface the for entering the location of areas in distress and their required demands. Upon clicking solve, the website would compute the most efficient network of routes(both in terms of time and number of vehicles used). The route would be shown as in the following example(Map is of Chennai when it was affected by floods) -
+Upon logging in the website would provide an interface the for entering the location of areas in distress and their required demands. Upon clicking solve, the website would compute the most efficient network of routes(both in terms of time and number of vehicles used). 
+The route would be shown as in the following example(Map is of Chennai when it was affected by floods):
+
+![Image of example Map](https://github.com/coffe2code/Microsoft-CodeFunDo-2k18/blob/master/Map.png)
+
+The map shows a relief agency tending to affected areas(shown by purple patches). Each route corresponds to a single vehicle. The vehicle needs to follow this route for the most efficient operation. The map is taken from https://osm-in.github.io/flood-map/chennai.html#11.65/13.0493/80.2593. We would be using Google Maps in our website.
+
+#### Algorithm
+
